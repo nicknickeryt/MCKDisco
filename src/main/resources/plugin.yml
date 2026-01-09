@@ -1,7 +1,7 @@
 name: MCKDisco
-author: Peridot
-version: 1.2.2
-api-version: 1.13
+author: Peridot, NickNickerYT
+version: 1.2.3
+api-version: 1.8
 main: me.peridot.mckdisco.MCKDisco
 website: mlgroup.pl
 
